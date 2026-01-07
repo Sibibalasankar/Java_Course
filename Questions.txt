@@ -1,0 +1,53 @@
+1. Sum of N natural numbers
+2. Greatest of 2 and 3 numbers
+3. Simple Character using switch case
+4. Vowel or Cosonent
+
+
+For loop
+1. Print numbers 1 to 100
+2. Print Even numbers 50 to 100
+3. Factorial Number
+4. Tables
+
+While Loop
+1. Print Odd nos 1 to 30
+
+Nested loop
+
+1 . ***
+    ***
+    ***
+
+2. 123
+   123
+   123
+
+3. *
+   **
+   ***
+
+4. Multiplication Table 
+    1  2   3   4   5
+    2  4   6   8   10
+    3  6   9   12  15
+    4  8   12  16  20
+    5  10  15  20  25
+
+
+5. 1
+   2 4
+   3 6 9
+   4 8 12 16      
+    
+
+
+*Single Inheritance* – Practice Problems
+1.Create a class Employee with a method work().
+Create a class Manager that inherits Employee and adds manage().
+
+2.Create a class Vehicle with method fuelType().
+Create Bike as a subclass and add method speed().
+
+3.Create a class Person with variables name and age.
+Create Student class that displays student details using inherited data    
