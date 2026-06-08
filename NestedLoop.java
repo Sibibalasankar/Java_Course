@@ -1,3 +1,4 @@
+package Basic_java;
 class pattern1 {
     public static void display() {
         for (int i = 1; i <= 3; i++) {

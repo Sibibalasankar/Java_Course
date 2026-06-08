@@ -1,3 +1,4 @@
+package Basic_java;
 
 // *Single Inheritance* – Practice Problems
 // 1.Create a class Employee with a method work().

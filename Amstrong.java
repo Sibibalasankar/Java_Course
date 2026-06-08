@@ -1,3 +1,4 @@
+package Basic_java;
 import java.util.Scanner;
 
 class amstr {
